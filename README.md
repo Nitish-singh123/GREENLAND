@@ -1,3 +1,3 @@
 # GREENLAND
 This is my second Git Repo.<br>
-Author-Nitish
+Author-Nitish Singh
